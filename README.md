@@ -1,2 +1,2 @@
-# Webpage
+# webpage
 Used HTML/CSS to create a webpage on the platform Codepen. The CSS code was used to create the background colour of the website and the text size, colour and font (imported from Google Fonts). The HTML code was used to create the headers, paragraph tags, import an image and do a contact form with inputs. Basic HTML & HTML5 and CSS information was used from the FreeCodeCamp website to aid the creation of the webpage.
